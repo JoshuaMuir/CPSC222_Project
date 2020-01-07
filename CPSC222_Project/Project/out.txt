@@ -1,0 +1,3631 @@
+left is 109
+right is 119
+top y is 205
+left is 221
+right is 231
+top y is 205
+left is 333
+right is 343
+top y is 205
+left is 445
+right is 455
+top y is 205
+left is 557
+right is 567
+top y is 205
+left is 669
+right is 679
+top y is 205
+left is 781
+right is 791
+top y is 205
+left is 893
+right is 903
+top y is 205
+left is 109
+right is 119
+top y is 355
+left is 221
+right is 231
+top y is 355
+left is 333
+right is 343
+top y is 355
+left is 445
+right is 455
+top y is 355
+left is 557
+right is 567
+top y is 355
+left is 669
+right is 679
+top y is 355
+left is 781
+right is 791
+top y is 355
+left is 893
+right is 903
+top y is 355
+left is 109
+right is 119
+top y is 505
+left is 221
+right is 231
+top y is 505
+left is 333
+right is 343
+top y is 505
+left is 445
+right is 455
+top y is 505
+left is 557
+right is 567
+top y is 505
+left is 669
+right is 679
+top y is 505
+left is 781
+right is 791
+top y is 505
+left is 893
+right is 903
+top y is 505
+left is 109
+right is 119
+top y is 655
+left is 221
+right is 231
+top y is 655
+left is 333
+right is 343
+top y is 655
+left is 445
+right is 455
+top y is 655
+left is 557
+right is 567
+top y is 655
+left is 669
+right is 679
+top y is 655
+left is 781
+right is 791
+top y is 655
+left is 893
+right is 903
+top y is 655
+in run
+in constr
+in constr
+in constr
+set gone left true
+collided true
+450 455
+set gone left true
+collided true
+450 455
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+set gone right true
+collided false
+value of right false
+value of left true
+went out a bad two
+set gone right true
+collided false
+went in a good one
+set gone right true
+collided false
+went in a good one
+set gone right true
+collided false
+went in a good one
+set gone right true
+collided false
+went in a good one
+set gone right true
+collided false
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+set gone left true
+collided true
+448 455
+went in a good one
+set gone left true
+collided true
+448 455
+value of right false
+value of left true
+went out a bad two
+set gone left true
+collided true
+448 455
+value of right false
+value of left true
+went out a bad two
+set gone left true
+collided true
+448 455
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+set gone left true
+collided true
+429 455
+value of right false
+value of left true
+went out a bad two
+set gone left true
+collided true
+429 455
+value of right false
+value of left true
+went out a bad two
+set gone left true
+collided true
+429 455
+value of right false
+value of left true
+went out a bad two
+set gone left true
+collided true
+429 455
+value of right false
+value of left true
+went out a bad two
+set gone left true
+collided true
+429 455
+value of right false
+value of left true
+went out a bad two
+set gone left true
+collided true
+429 455
+value of right false
+value of left true
+went out a bad two
+set gone left true
+collided true
+429 455
+value of right false
+value of left true
+went out a bad two
+set gone left true
+collided true
+429 455
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+set gone right true
+collided false
+value of right false
+value of left true
+went out a bad two
+set gone right true
+collided false
+went in a good one
+set gone right true
+collided false
+went in a good one
+set gone right true
+collided false
+went in a good one
+set gone right true
+collided false
+went in a good one
+set gone right true
+collided false
+went in a good one
+set gone right true
+collided false
+went in a good one
+set gone right true
+collided false
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+set gone left true
+collided true
+437 455
+went in a good one
+set gone left true
+collided true
+437 455
+value of right false
+value of left true
+went out a bad two
+set gone left true
+collided true
+437 455
+value of right false
+value of left true
+went out a bad two
+set gone left true
+collided true
+437 455
+value of right false
+value of left true
+went out a bad two
+set gone left true
+collided true
+437 455
+value of right false
+value of left true
+went out a bad two
+set gone left true
+collided true
+437 455
+value of right false
+value of left true
+went out a bad two
+set gone left true
+collided true
+437 455
+value of right false
+value of left true
+went out a bad two
+set gone left true
+collided true
+437 455
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+set gone right true
+collided false
+value of right false
+value of left true
+went out a bad two
+set gone right true
+collided false
+went in a good one
+set gone right true
+collided false
+went in a good one
+set gone right true
+collided false
+went in a good one
+set gone right true
+collided false
+went in a good one
+set gone right true
+collided false
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+set gone left true
+collided true
+438 455
+went in a good one
+set gone left true
+collided true
+438 455
+value of right false
+value of left true
+went out a bad two
+set gone left true
+collided true
+438 455
+value of right false
+value of left true
+went out a bad two
+set gone left true
+collided true
+438 455
+value of right false
+value of left true
+went out a bad two
+set gone left true
+collided true
+438 455
+value of right false
+value of left true
+went out a bad two
+set gone left true
+collided true
+438 455
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+value of right false
+value of left true
+went out a bad two
+set gone right true
+collided false
+value of right false
+value of left true
+went out a bad two
+set gone right true
+collided false
+went in a good one
+set gone right true
+collided false
+went in a good one
+set gone right true
+collided false
+went in a good one
+set gone right true
+collided false
+went in a good one
+set gone right true
+collided false
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
+went in a good one
